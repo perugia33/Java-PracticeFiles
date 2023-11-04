@@ -8,7 +8,7 @@ public class ReversedString {
 
         String reversed = sb.reverse().toString();
 
-        System.out.println( "Original String eguals   "  + original  );
+        System.out.println( "Original String equals   "  + original  );
 
         System.out.println(" Reversed string :   "  + reversed  );
 

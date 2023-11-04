@@ -90,12 +90,6 @@ public class MapMethod {
 
         // Print Updated map
         System.out.println("This is the updated map  "  +  myMap);
-
-
-
-
-
-
         
     }
    
